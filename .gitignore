@@ -1,0 +1,31 @@
+# IntelliJ
+.idea
+.idea_modules
+.classpath
+.project
+.settings
+*.iml
+
+# CMD line tools: vim, diff, etc.
+*.swp
+*.diff
+.ensime
+.ensime_cache
+.fnmrc
+.vscode
+
+# NPM
+node_modules/
+node_modules
+.nvmrc
+package-lock.json
+
+#Compressed files
+*.gz
+*.br
+
+#OS X
+.DS_Store
+
+# Generated files
+dist/

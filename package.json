@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fp-ts": "^2.0.1",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "tsc": "node_modules/.bin/tsc",
+    "ts-node": "node_modules/.bin/ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jleider/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jleider/test/issues"
+  },
+  "homepage": "https://github.com/jleider/test#readme"
+}
