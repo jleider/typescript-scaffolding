@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "typescript-scaffolding",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,12 +15,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jleider/test.git"
+    "url": "git+https://github.com/jleider/typescript-scaffolding.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jleider/test/issues"
-  },
-  "homepage": "https://github.com/jleider/test#readme"
+  "homepage": "https://github.com/jleider/typescript-scaffolding#readme"
 }
